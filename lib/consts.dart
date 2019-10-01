@@ -1,0 +1,12 @@
+const int appDigits = 1;
+const String appAlarmFileName = 'SirenNoise.mp3';
+const int delaySecs = 5;
+const double delta = 2;
+const int appActButCol = 0xFF880E4F;
+const int appDeActButCol = 0xFF303F9F;
+const double appMargin = 15;
+const double appFontSizeNormal = 20;
+const double appFontSizeHuge = 24;
+const double appFontSizeBig = 22;
+const double appButMargin = 90;
+const double appButBorderRad = 20;
